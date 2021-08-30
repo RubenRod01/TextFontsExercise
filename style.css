@@ -1,0 +1,85 @@
+/* Bonus One Assignment */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Press+Start+2P&display=swap');
+/* Assignment Two */
+
+html {
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* Assignment 3 */
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    /* 4 5 6 7 8  */
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+/* Assignment 9 */
+
+#series-movies {
+    font-size: 20px;
+}
+
+/* Assignment 10 */
+
+h2 {
+    font-size: 2em;
+}
+
+/* Assignment 11 */
+
+li {
+    line-height: 2;
+}
+
+/* Assignment 12 */
+
+#characters {
+    font-size: 18px;
+}
+
+/* Assignment 13 */
+
+h4 {
+    letter-spacing: 15px;
+}
+
+/* Bonus Two Assignment */
+
+h4 {
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+}
+
+/* Bonus Three Assignment */
+
+h2, h3, h4 {
+    text-align: center;
+}
+
+/* Bonus Four Assignment */
+
+li {
+    font-size: 1rem;
+}
+
+/* Bonus Five & 7 Assignment */
+
+body {
+    background-image: url(starTrek.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+/* Bonus Six Assignment */
+body {
+    color:rgba(255, 255, 255, 0.6)
+}
